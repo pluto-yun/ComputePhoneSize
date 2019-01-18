@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compute phones size", "ConsoleApp10\compute phones size.csproj", "{0DD57D93-0CFE-4757-BD22-7ABBE33F4D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD57D93-0CFE-4757-BD22-7ABBE33F4D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD57D93-0CFE-4757-BD22-7ABBE33F4D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD57D93-0CFE-4757-BD22-7ABBE33F4D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD57D93-0CFE-4757-BD22-7ABBE33F4D64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50E098C2-2EE2-4BCA-AD99-059E06200137}
+	EndGlobalSection
+EndGlobal
